@@ -2,4 +2,4 @@
 Microgravity Fluid Simulator for CAD files 
 
 
-Using fluidity, tkinter
+Using fluidity, tkinter, numpy
